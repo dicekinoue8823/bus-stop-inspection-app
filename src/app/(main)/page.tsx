@@ -1,5 +1,4 @@
 import CurrentLocation from "@/components/CurrentLocation";
-import Map from "@/components/Map";
 
 
 export default function MainPage() {
