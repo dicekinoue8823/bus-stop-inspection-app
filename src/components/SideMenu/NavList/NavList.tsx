@@ -33,12 +33,18 @@ const NavList = () => {
         },
         {
             id: 4,
+            label: "バス停選択",
+            link: "/map/select_busstop",
+            icon: <TbBusStop className="size-5" />,
+        },
+        {
+            id: 5,
             label: "検索-バス停",
             link: "/search",
             icon: <GiBusStop className="size-5" />,
         },
         {
-            id: 5,
+            id: 6,
             label: "カメラ",
             link: "/camera",
             icon: <IoCameraOutline className="size-5" />,
